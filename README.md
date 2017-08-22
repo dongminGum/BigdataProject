@@ -33,9 +33,14 @@ price_index.csv
 
 
 <data>
+  
 ExchangeRate : USD->KRW
+
   ExchangeRate.csv
   
+  
 Domestic argricultural products : 
+
   y2014-1.csv : 20140102 ~ 20140630
+  
   yall.csv : 20140701 ~ 20170821
