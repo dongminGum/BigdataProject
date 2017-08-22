@@ -43,3 +43,8 @@ and exchange rates.
 ●ExchangeRate.csv
   
   
+<국내생산량>
+
+●production1.csv :  감귤,단감,배
+●production2.csv : 수박,토마토
+●production3.csv : 파,쪽파,
