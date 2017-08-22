@@ -60,10 +60,4 @@ for d in dayTuple:
          'std_prdlst_code':std_prdlst_code_d,'std_prdlst_nm':std_prdlst_nm_d,'std_unit_code':std_unit_code_d,'std_unit_nm':std_unit_nm_d,
          'std_grad_code':std_grad_code_d,'std_grad_nm':std_grad_nm_d,'delng_prut_code':delng_prut_code_d,'delng_qy':delng_qy_d}
     df = pd.DataFrame(data=dic)
-    df.to_csv('D:\datasample\Report1.csv',mode='a',header=False)
-    """
-    with open('D:\Report.csv', "w") as csvFile:
-        writer = csv.writer(csvFile, delimiter=',')
-        for i in range(len(delng_de_d)):
-            writer.writerow([delng_de_d[i],whsal_code_d[i],whsal_nm_d[i],mlsfc_code_d[i],mlsfc_nm_d[i],std_prdlst_code_d[i],std_prdlst_nm_d[i],std_unit_code_d[i],std_unit_nm_d[i],std_grad_code_d[i],std_grad_nm_d[i],delng_prut_code_d[i],delng_qy_d[i]])
-    """"
+    df.to_csv('D:\datasample\Report1.csv',mode='a',header=False)   
