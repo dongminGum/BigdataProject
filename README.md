@@ -49,4 +49,5 @@ and exchange rates.
 
 ●production2.csv : 수박,토마토
 
-●production3.csv : 파,쪽파,
+●production3.csv : 파,쪽파,양파
+
