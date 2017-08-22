@@ -11,36 +11,30 @@ and exchange rates.
 
 20140101 ~ 20170821자료
 
-weather-1.csv : 서울, 인천, 광주, 대구
-weather-2.csv : 부산, 울산, 대전, 제주
-weather-3.csv : 강릉(강원도), 파주(경기도), 수원(경기도), 청주(충청북도), 보령(충청남도)
-weather-4.csv : 전주(전라북도), 진도군(전라남도), 김해(경상남도), 안동(경상북도)
+●weather-1.csv : 서울, 인천, 광주, 대구
+●weather-2.csv : 부산, 울산, 대전, 제주
+●weather-3.csv : 강릉(강원도), 파주(경기도), 수원(경기도), 청주(충청북도), 보령(충청남도)
+●weather-4.csv : 전주(전라북도), 진도군(전라남도), 김해(경상남도), 안동(경상북도)
 
 
 <지자체 농수축산물 물가조사가격 정보> - OPEN API
 
+국내농산물가격csv.zip
 20140102 ~ 20170822
 
-y2014-1.csv : 20140102 ~ 20140630
-yall.csv : 20140701 ~ 20170821
+●y2014-1.csv : 20140102 ~ 20140630
+●yall.csv : 20140701 ~ 20170821
 
 
 <품목별 소비자 물가 지수> - 통계청
 
 201401 ~ 201707
 
-price_index.csv
+●price_index.csv
 
 
-<data>
-  
-ExchangeRate : USD->KRW
-
-  ExchangeRate.csv
+<환율> - USD->KRW
+  
+●ExchangeRate.csv
   
   
-Domestic argricultural products : 
-
-  y2014-1.csv : 20140102 ~ 20140630
-  
-  yall.csv : 20140701 ~ 20170821
