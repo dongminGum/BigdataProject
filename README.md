@@ -54,3 +54,7 @@ and exchange rates.
 ●production3.csv : 파,쪽파,양파
 
 
+<국내 유통량>
+
+●Open Api Crawling Code : crawlingApiStatsInfoService.py
+
