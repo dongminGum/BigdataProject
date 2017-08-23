@@ -60,6 +60,10 @@ and exchange rates.
 
 ●Open Api Crawling Code : crawlingApiStatsInfoService.py
 
+<수입유통량>
+
+●income.csv
+
 <태풍 유무>
 
 ●hurricane.xls : 태풍유무
