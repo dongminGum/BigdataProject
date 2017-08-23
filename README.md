@@ -36,6 +36,8 @@ and exchange rates.
 
 201401 ~ 201707
 
+(2015=100)
+
 ●price_index.csv
 
 
