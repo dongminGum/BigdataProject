@@ -36,7 +36,7 @@ and exchange rates.
 
 201401 ~ 201707
 
-(2015=100)
+(2015=100) http://kostat.go.kr/incomeNcpi/cpi/cpi_cp/1/7/index.static 
 
 ●price_index.csv
 
