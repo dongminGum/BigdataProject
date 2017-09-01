@@ -1,0 +1,7 @@
+val rdd=sc.textFile("textPath")
+rdd.flatMap(line => line.split(" ")).map(w => (w,1)).reduceByKey((a,b) => a+b).sortBy(x => x._1, false).toDF()
+case class carrotUpChart(val date:String,val num:Integer)
+carrotUp.createOrReplaceTempView("carrotUp)"
+
+%sql
+select * from carrotUp
